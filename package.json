@@ -1,7 +1,7 @@
 {
-    "name": "ajs",
+    "name": "webpack",
     "version": "1.0.0",
-    "description": "",
+    "description": "test_webpack",
     "main": "index.js",
     "scripts": {
         "start": "webpack serve --mode development",
@@ -15,8 +15,8 @@
         "preshow:dist": "npm run build",
         "show:dist": "live-server dist"
     },
-    "author": "Rysaev Damir <freepad@ya.ru>",
-    "license": "MIT",
+    "author": "GivenRous",
+    "license": "ISC",
     "devDependencies": {
         "@babel/cli": "^7.23.0",
         "@babel/core": "^7.23.0",
